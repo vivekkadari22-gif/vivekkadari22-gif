@@ -91,14 +91,43 @@ Deploy and maintain enterprise servers, storage, Cisco Nexus, and Juniper equipm
 
 Deployed Dell PowerEdge servers, Catalyst switches, storage arrays, fiber, and patching infrastructure. Supported provisioning and MDT imaging, restored affected systems within an average of two hours, improved cable-management standards, and maintained accurate lifecycle documentation.
 
-## Selected infrastructure programs
+## Featured professional projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚚 Infrastructure Migration Playbook
+
+A vendor-neutral execution framework for relocating production equipment while protecting service continuity, asset integrity, and change-control compliance.
+
+**Covers:** discovery, dependency mapping, rack and power validation, migration sequencing, rollback readiness, post-move testing, and CMDB closeout.
+
+[**Explore the migration playbook →**](./projects/infrastructure-migration-playbook/README.md)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔌 Cabling Standardization Program
+
+A repeatable operating standard for improving physical-layer traceability, safety, troubleshooting speed, and audit readiness across enterprise racks.
+
+**Covers:** fiber and copper handling, labeling, pathway organization, link testing, quality gates, documentation, and reusable audit controls.
+
+[**Explore the cabling program →**](./projects/cabling-standardization-program/README.md)
+
+</td>
+</tr>
+</table>
+
+> These case studies are intentionally vendor-neutral and exclude confidential infrastructure details.
+
+### Additional programs
 
 | Program | Mission | Operational value |
 |---|---|---|
 | **Data Center Expansion** | Deployed server and network infrastructure across production environments | Increased infrastructure capacity |
-| **Infrastructure Migration** | Relocated equipment while maintaining operational continuity | Minimized service disruption |
 | **Hardware Refresh** | Coordinated replacement of aging infrastructure components | Improved reliability and performance |
-| **Cabling Standardization** | Introduced consistent routing, labeling, and documentation practices | Faster maintenance and troubleshooting |
 
 ## Tools of the trade
 
