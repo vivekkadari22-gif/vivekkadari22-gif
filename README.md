@@ -1,66 +1,137 @@
-<h1 align="center">Hi, I'm Vivek Kadari 👋</h1>
+<div align="center">
+  <img src="./assets/profile-banner.svg" width="100%" alt="Vivek Kadari - Data Center Engineer" />
+</div>
 
-<h3 align="center">Data Center Engineer | Infrastructure Operations | Network & Hardware Support</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Denver%2C%20CO-0A66C2?style=flat-square" alt="Denver, Colorado" />
-  <img src="https://img.shields.io/badge/Certification-CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="CCNA" />
-  <img src="https://img.shields.io/badge/Focus-Data%20Center%20Operations-2E7D32?style=flat-square" alt="Data Center Operations" />
-</p>
+[![CCNA](https://img.shields.io/badge/CISCO_CCNA-CERTIFIED-00BCEB?style=for-the-badge&logo=cisco&logoColor=white)](#certification--education)
+[![Denver](https://img.shields.io/badge/DENVER_CO-OPEN_TO_CONNECT-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white)](#connect)
+[![Infrastructure](https://img.shields.io/badge/ENTERPRISE_INFRASTRUCTURE-2A2F45?style=for-the-badge&logo=serverfault&logoColor=white)](#technical-arsenal)
 
-## About me
+</div>
 
-I'm a Data Center Engineer with 2+ years of hands-on experience supporting enterprise infrastructure. I specialize in server deployment, rack integration, network hardware, structured cabling, hardware troubleshooting, infrastructure migrations, and high-availability operations.
+## I keep critical infrastructure running.
 
-I enjoy turning complex physical infrastructure into reliable, well-documented environments that are easier to operate, maintain, and scale.
+Data Center Engineer with **2+ years of hands-on enterprise experience** deploying, troubleshooting, migrating, and maintaining the physical systems behind always-on services. I work where hardware, networks, power, cabling, process, and uptime meet.
 
-## What I work with
+```text
+DEPLOY  →  VALIDATE  →  TROUBLESHOOT  →  DOCUMENT  →  IMPROVE
+```
 
-- **Data center operations:** Rack & stack, server deployment, asset management, inventory control, equipment decommissioning, and remote hands
-- **Hardware:** Dell PowerEdge, HPE ProLiant, Cisco UCS, Lenovo ThinkSystem, and enterprise storage systems
-- **Networking:** Cisco Nexus, Catalyst, Juniper, and Arista switches; TCP/IP, DNS, DHCP, VLANs, routing, and switching fundamentals
-- **Cabling:** Single-mode and multi-mode fiber, copper, OTDR testing, tracing, labeling, and cable management
-- **Infrastructure support:** Hardware diagnostics, component replacement, firmware upgrades, preventive maintenance, and root-cause analysis
-- **Platforms & tools:** Windows Server, Linux, VMware ESXi, ServiceNow, Jira, PuTTY, SecureCRT, Confluence, and Microsoft Office
-- **Operations & compliance:** ESD procedures, ITIL change management, OSHA safety practices, and maintenance-window execution
+### Impact at a glance
 
-## Experience highlights
+| 99.5% | 20% faster | 30% fewer | Zero |
+|:---:|:---:|:---:|:---:|
+| Service availability supported | Deployment cycles | Cable-related incidents | Safety incidents |
 
-- Deploy and maintain enterprise servers, storage systems, and Cisco Nexus and Juniper network equipment in production environments
-- Diagnose and replace SSDs, HDDs, memory, power supplies, NICs, and fans to restore performance and reduce downtime
-- Execute fiber and copper cabling installations with testing, labeling, tracing, and documentation
-- Support infrastructure migrations, equipment relocations, firmware upgrades, and capacity planning with minimal service disruption
-- Maintain asset records, rack elevations, cabling layouts, and operational procedures for faster troubleshooting and audit readiness
-- Helped maintain **99.5% service availability**, shortened deployment cycles by **20%**, and contributed to a **30% reduction in cable-related incidents**
+## Technical arsenal
 
-## Selected infrastructure projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Data Center Expansion
-Supported new server and network infrastructure deployments across multiple production environments, following engineering standards and delivery timelines.
+### ⚡ Data Center Operations
 
-### Infrastructure Migration
-Assisted with equipment relocation and migration activities while protecting operational continuity and minimizing disruption.
+- Rack & stack and rack integration
+- Server and storage deployment
+- Asset lifecycle and inventory control
+- Remote hands and vendor coordination
+- Capacity, power, and rack elevation reviews
+- Decommissioning and migration support
 
-### Hardware Refresh
-Coordinated replacement of aging infrastructure components to improve reliability, performance, and lifecycle visibility.
+</td>
+<td width="50%" valign="top">
 
-### Cabling Standardization
-Applied consistent labeling and cable-management practices to improve traceability, maintenance efficiency, and troubleshooting.
+### 🌐 Network Infrastructure
 
-## Education & certification
+- Cisco Nexus and Catalyst
+- Juniper and Arista switching
+- TCP/IP, DNS, DHCP, and VLANs
+- Routing and switching fundamentals
+- Firmware upgrades and link validation
+- Incident response and root-cause analysis
 
-- **M.S., Advanced Data Analytics** — University of North Texas
-- **B.Tech., Mechanical Engineering** — Kakatiya Institute of Technology and Science
-- **Cisco Certified Network Associate (CCNA)**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## Current focus
+### 🖥️ Enterprise Hardware
 
-- Deepening automation skills for infrastructure operations
-- Building reusable runbooks and troubleshooting documentation
-- Expanding expertise in network reliability, Linux, and virtualized environments
+- Dell PowerEdge and HPE ProLiant
+- Cisco UCS and Lenovo ThinkSystem
+- Enterprise storage systems
+- SSD, HDD, memory, PSU, NIC, and fan replacement
+- Hardware diagnostics and preventive maintenance
+- Windows Server, Linux, and VMware ESXi
 
----
+</td>
+<td width="50%" valign="top">
 
-<p align="center">
-  <i>Reliable infrastructure starts with disciplined execution, clear documentation, and continuous improvement.</i>
-</p>
+### 🔌 Structured Cabling
+
+- Single-mode and multi-mode fiber
+- Copper cabling and patch panels
+- OTDR testing and link verification
+- Cable tracing and fault isolation
+- Color-coded labeling and pathway organization
+- CMDB and cabling documentation
+
+</td>
+</tr>
+</table>
+
+## Mission highlights
+
+### 🟠 Production Infrastructure — Charter Communications
+
+Deploy and maintain enterprise servers, storage, Cisco Nexus, and Juniper equipment in production environments. Execute component-level diagnostics, structured cabling, firmware upgrades, infrastructure migrations, capacity monitoring, and remote-hands operations while protecting availability.
+
+### 🔵 Enterprise Data Center — Williams Sonoma
+
+Deployed Dell PowerEdge servers, Catalyst switches, storage arrays, fiber, and patching infrastructure. Supported provisioning and MDT imaging, restored affected systems within an average of two hours, improved cable-management standards, and maintained accurate lifecycle documentation.
+
+## Selected infrastructure programs
+
+| Program | Mission | Operational value |
+|---|---|---|
+| **Data Center Expansion** | Deployed server and network infrastructure across production environments | Increased infrastructure capacity |
+| **Infrastructure Migration** | Relocated equipment while maintaining operational continuity | Minimized service disruption |
+| **Hardware Refresh** | Coordinated replacement of aging infrastructure components | Improved reliability and performance |
+| **Cabling Standardization** | Introduced consistent routing, labeling, and documentation practices | Faster maintenance and troubleshooting |
+
+## Tools of the trade
+
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Dell](https://img.shields.io/badge/Dell_PowerEdge-0672CE?style=flat-square&logo=dell&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111)
+![VMware](https://img.shields.io/badge/VMware_ESXi-607078?style=flat-square&logo=vmware&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=flat-square&logo=servicenow&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
+![PuTTY](https://img.shields.io/badge/PuTTY-2A2F45?style=flat-square&logo=gnometerminal&logoColor=white)
+
+## Certification & education
+
+- **Cisco Certified Network Associate (CCNA)** — Enterprise networking, IP connectivity, security fundamentals, and automation
+- **M.S. in Advanced Data Analytics** — University of North Texas
+- **B.Tech. in Mechanical Engineering** — Kakatiya Institute of Technology and Science
+
+## Building next
+
+- Infrastructure automation for repeatable operations
+- Linux administration and network reliability
+- Reusable runbooks that reduce time to resolution
+- Operational analytics for capacity and lifecycle planning
+
+## Connect
+
+I'm based in **Denver, Colorado** and interested in connecting with teams building reliable, scalable data center infrastructure.
+
+<div align="center">
+
+### Ready to deploy. Driven to improve. Built for uptime.
+
+![Profile views](https://komarev.com/ghpvc/?username=vivekkadari22-gif&color=ff6b35&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
